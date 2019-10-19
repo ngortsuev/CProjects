@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mesh" Collapsed="true">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chunk" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEQAEAAAAAEAAAAAEAAAAAAAAAAAAAABAQAAAAAAgA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkNull" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAAAAEAAAAAAAAAAAAAAAAAAAgAIAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkMain" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkEdit" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkObject" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkTriMesh" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkVertex" Collapsed="true">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkPolygon" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkMapCoord" Collapsed="true">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkScale" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkViewportSize" Collapsed="true">
+    <Position X="14.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChunkCreator" Collapsed="true">
+    <Position X="5.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAJAGBAAABBAAAAAABRAAAAAAAQ=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File3DS" Collapsed="true">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBAAAAAAAAAATAAAAAQAAABAAAABYABAAAAAAA=</HashCode>
+      <FileName>File3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

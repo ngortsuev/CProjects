@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColorFunc" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorCMYK" Collapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEEAAAAAAAAAAAAAAAAgAAIAAAAAAABAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorXYZ" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAUAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorHSV" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorHSL" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorLAB" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAgBQAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorLMS" Collapsed="true">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAABoAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorYUV" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIgAAQAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorBGR" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorRGB" Collapsed="true">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAAAQAYASAAQIBFwAgAAAIAAAQAAAwiAkCIiA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorRed" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorGreen" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorBlue" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VColorXYZ" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAoAEAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VColor" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAgAAIAAgQAQAAAAAACAAAAAgAAIAiA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Compressor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressor" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQEAIAAAAAAAAAgBABAAAAgAAAAAAAAAIQAAAAAAg=</HashCode>
+      <FileName>Compressor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RLEImageCompressor" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Compressor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Converter" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageConverter" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIgAAACAAAAgAEAIRACAIAisAAAAAAAAAgAAKAACQA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMPImageConverter" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCXImageConverter" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABIA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGAImageConverter" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileImage" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAIAAFAAAAAACAABTAAAAAAEACAAARABYBAAACAACA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileImageFactory" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAEAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMPFileHeader" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAIAQAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMPInfoHeader" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEGAAAAgAAAUAQACAAQAAAAACAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMPHeader" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileBitmap" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAIAAUAAAAAAAAAICIAAAAAAAAAAAQAAQAAAAAAAgA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GIFHeader" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAABAAAgAAAAAACABAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileGIF" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAIAAAUAAAAAAAAAICAAAAAAAEAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JPGHeader" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileJPG" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAQAAUAAAAAAAAAICAAAAAAAAAAAAAAAQAAAAAAAIA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCXHeader" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAEAAgAAAAgACAAACAAg4AQCACAAQAAAIAAAAI=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilePCX" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAIAAUAAAAAAAAAICQAAAAAAAAAAAAAAQQAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilePNG" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NAAAAAEAAAAAAAAAACAAAAAAAAAAIAAAAQAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGAType" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABABAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGAPaletteInfo" Collapsed="true">
+    <Position X="21.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGACoord" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGAHeader" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAABAAAAAAAgAAAAAACA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileTGA" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAIAAUAAAAAAAAAICAAAAAAAAAAIAQAAQAAAAIAAAA=</HashCode>
+      <FileName>FileImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Image" Collapsed="true">
+    <Position X="21.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCIABACFAQCAICQAQAACAYAAQAAAQBMkAGAQwAAAAiA=</HashCode>
+      <FileName>Image.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

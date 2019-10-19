@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Compressor">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Compressor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressor">
+    <Position X="3.25" Y="4" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQEAIAAAAAAAAAgBABAAAAgAAAAAAAAAIQAAAAAAg=</HashCode>
+      <FileName>Compressor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RLEImageCompressor">
+    <Position X="3" Y="8" Width="4.25" />
+    <InheritanceLine Type="ImageCompressor" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="7.291" />
+        <Point X="5" Y="7.625" />
+        <Point X="5" Y="7.625" />
+        <Point X="5" Y="8" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Compressor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

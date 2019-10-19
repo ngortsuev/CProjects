@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColorBGR" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorBlue" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorCMYK" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEEAAAAAAAAAAAAAAAAgAAIAAAAAAABAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorFunc" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorGreen" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorHSL" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorHSV" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorLAB" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAgBQAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorLMS" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAABoAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorRed" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorRGB">
+    <Position X="2" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAAAQAYASAAQIBFwAgAAAIAAAQAAAwiAkCIiA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorXYZ" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAUAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorYUV" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIgAAQAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VColor" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAgAAIAAgQAQAAAAAACAAAAAgAAIAiA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VColorXYZ" Collapsed="true">
+    <Position X="8.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAoAEAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

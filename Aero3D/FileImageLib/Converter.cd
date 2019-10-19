@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Converter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageConverter">
+    <Position X="3.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAIgAAACAAAAgAEAIRACAIAisAAAAAAAAAgAAKAACQA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGAImageConverter">
+    <Position X="7" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCXImageConverter">
+    <Position X="4.25" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ggAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABIA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMPImageConverter">
+    <Position X="0.75" Y="8.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Converter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
